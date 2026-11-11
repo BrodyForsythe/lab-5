@@ -1,6 +1,7 @@
 @import "tailwindcss";
 @theme {
     --color-secondary: #FFCED8;
-    --color-primary: #FFF4DE;
+    --color-primary: #FFCED8;
     --font-size: var(--text-xl);  
+    
 }
